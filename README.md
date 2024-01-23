@@ -1,7 +1,7 @@
 # Project Overview: Enhancing London's Transport Strategy
 The Greater London Authority (GLA) has enlisted the expertise of ThoughtWorks to conduct a comprehensive assessment of the progress made in the transport strategy outlined for the next two decades in 2018. The Mayor of London is keen to evaluate the impact of various interventions on cycling behaviour and seeks recommendations for potential adjustments to the strategy.
 
-# Project Scope:
+# Project Scope
 As a team, we conducted an in-depth analysis of the current state of cycling in London, evaluating the effectiveness of implemented strategies and their influence on public behaviour. The study encompassed demographic profiling of cyclists and the identification of potential outreach strategies for underrepresented groups. The goal was to provide the GLA with actionable insights and recommendations for optimizing the existing transport strategy.
 
 The collaboration between the GLA and ThoughtWorks aims to refine London's transport strategy, ensuring it aligns with evolving patterns in cycling behaviour and remains a sustainable, inclusive, and efficient mode of urban transportation.
