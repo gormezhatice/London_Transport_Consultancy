@@ -17,13 +17,13 @@ The collaboration between the GLA and ThoughtWorks aims to refine London's trans
 
 Our analytical methodology employed a multifaceted approach to gain comprehensive insights:
 
-- **Descriptive Analysis:** Utilized statistical measures and charts to assess numerical data from diverse sources, including ASHE, climate data, census, cycle flows, crime rates, and collision data.
+**Descriptive Analysis:** Utilized statistical measures and charts to assess numerical data from diverse sources, including ASHE, climate data, census, cycle flows, crime rates, and collision data.
   
-- **Time-Series Analysis:** Tracked trends and patterns over time using datasets related to cycle flows, bicycle hire schemes, crime rates, cyclist collisions, and road accidents.
+**Time-Series Analysis:** Tracked trends and patterns over time using datasets related to cycle flows, bicycle hire schemes, crime rates, cyclist collisions, and road accidents.
   
-- **Regression Analysis:** Examined relationships between variables, such as analyzing the correlation between cycling behaviour and factors like weather conditions, crime rates, or demographic variables.
+**Regression Analysis:** Examined relationships between variables, such as analyzing the correlation between cycling behaviour and factors like weather conditions, crime rates, or demographic variables.
   
-- **Correlation Analysis:** Explored correlations among different datasets to identify potential relationships or dependencies, such as examining correlations between cycling behaviour and factors like weather, crime rates, or public transport-related crimes.
+**Correlation Analysis:** Explored correlations among different datasets to identify potential relationships or dependencies, such as examining correlations between cycling behaviour and factors like weather, crime rates, or public transport-related crimes.
 
 ## Analysis Tools and Techniques
 
