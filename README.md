@@ -1,7 +1,7 @@
 # Project Overview: Enhancing London's Transport Strategy
 The Greater London Authority (GLA) has enlisted the expertise of ThoughtWorks to conduct a comprehensive assessment of the progress made in the transport strategy outlined for the next two decades in 2018. The Mayor of London is keen to evaluate the impact of various interventions on cycling behaviour and seeks recommendations for potential adjustments to the strategy.
 
-# Project Scope
+## Project Scope
 As a team, we conducted an in-depth analysis of the current state of cycling in London, evaluating the effectiveness of implemented strategies and their influence on public behaviour. The study encompassed demographic profiling of cyclists and the identification of potential outreach strategies for underrepresented groups. The goal was to provide the GLA with actionable insights and recommendations for optimizing the existing transport strategy.
 
 The collaboration between the GLA and ThoughtWorks aims to refine London's transport strategy, ensuring it aligns with evolving patterns in cycling behaviour and remains a sustainable, inclusive, and efficient mode of urban transportation.
@@ -21,9 +21,9 @@ Our analytical methodology employed a multifaceted approach to gain comprehensiv
   
 - **Time-Series Analysis:** Tracked trends and patterns over time using datasets related to cycle flows, bicycle hire schemes, crime rates, cyclist collisions, and road accidents.
   
-- **Regression Analysis:** Examined relationships between variables, such as analyzing the correlation between cycling behavior and factors like weather conditions, crime rates, or demographic variables.
+- **Regression Analysis:** Examined relationships between variables, such as analyzing the correlation between cycling behaviour and factors like weather conditions, crime rates, or demographic variables.
   
-- **Correlation Analysis:** Explored correlations among different datasets to identify potential relationships or dependencies, such as examining correlations between cycling behavior and factors like weather, crime rates, or public transport-related crimes.
+- **Correlation Analysis:** Explored correlations among different datasets to identify potential relationships or dependencies, such as examining correlations between cycling behaviour and factors like weather, crime rates, or public transport-related crimes.
 
 ## Analysis Tools and Techniques
 
@@ -32,11 +32,11 @@ We chose Python for this project due to its open-source nature, rich libraries s
 ## Challenges Faced
 While striving for a unified approach, maintaining a single Jupyter Notebook in GitHub posed challenges, leading to file corruption issues. To address this, the team developed a 'core' Jupyter Notebook with inbuilt functions and data loading. Each team member worked on individual copies, coordinating efforts in daily stand-ups to ensure synchronization.
 
-# Patterns, Trends, and Insights
+## Patterns, Trends, and Insights
 <img width="623" alt="Screenshot 2024-01-23 at 20 14 26" src="https://github.com/gormezhatice/London_Transport_Consultancy/assets/133010718/b7dcb191-1801-4792-80ca-53abb6651d66">
 
-### A Pillar of Sustainable Urban Transit in New York City
-Launched in May 2013, Citi Bike swiftly emerged as a cornerstone of New York City's transit system, holding the title of the largest bike share program in the U.S. Boasting a distinctive blend of convenience, affordability, and sustainability, Citi Bike has become a favored alternative for commuters. Its positive impact extends beyond mere transportation, promoting an active and healthy lifestyle while contributing significantly to the city's environmental well-being. This two-wheeled transit solution not only ensures efficient urban mobility but also fosters a culture of well-being among New Yorkers.
+#### A Pillar of Sustainable Urban Transit in New York City
+Launched in May 2013, Citi Bike swiftly emerged as a cornerstone of New York City's transit system, holding the title of the largest bike share program in the U.S. Boasting a distinctive blend of convenience, affordability, and sustainability, Citi Bike has become a favoured alternative for commuters. Its positive impact extends beyond mere transportation, promoting an active and healthy lifestyle while contributing significantly to the city's environmental well-being. This two-wheeled transit solution not only ensures efficient urban mobility but also fosters a culture of well-being among New Yorkers.
 
 <img width="965" alt="Screenshot 2024-01-23 at 12 15 29" src="https://github.com/gormezhatice/London_Transport_Consultancy/assets/133010718/4cad8d8a-e09f-45c2-8c2f-8a98f853f9e5">
 
