@@ -32,6 +32,9 @@ We chose Python for this project due to its open-source nature, rich libraries s
 ## Challenges Faced
 While striving for a unified approach, maintaining a single Jupyter Notebook in GitHub posed challenges, leading to file corruption issues. To address this, the team developed a 'core' Jupyter Notebook with inbuilt functions and data loading. Each team member worked on individual copies, coordinating efforts in daily stand-ups to ensure synchronization.
 
+## Jupyter Notebook Insights
+#### [See the detailed visualization in the Jupyter Notebook](https://github.com/gormezhatice/London_Transport_Consultancy/blob/main/Comparative%20Visualizations%20of%20Cities.ipynb)
+
 ## Patterns, Trends, and Insights
 <img width="623" alt="Screenshot 2024-01-23 at 20 14 26" src="https://github.com/gormezhatice/London_Transport_Consultancy/assets/133010718/b7dcb191-1801-4792-80ca-53abb6651d66">
 
